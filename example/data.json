@@ -1,121 +1,36 @@
 {
-    "Leomotors/anime-captcha": {
+    "CarelessDev/anime-captcha": {
         "Svelte": 9520,
         "TypeScript": 1763,
         "HTML": 916,
         "JavaScript": 390
     },
-    "Leomotors/Auto-Language-Stats": {
-        "JavaScript": 2862
+    "CarelessDev/Auto-Language-Stats": {
+        "JavaScript": 2864
     },
-    "Leomotors/auto-publish-release": {
-        "JavaScript": 877
+    "CarelessDev/CarelessDev": {},
+    "CarelessDev/Evolution-Off-Aggression": {
+        "Python": 3608
     },
-    "Leomotors/Battleship-SIMP": {
-        "Vue": 18371,
-        "TypeScript": 5890,
-        "JavaScript": 5106,
-        "SCSS": 1383,
-        "HTML": 588
+    "CarelessDev/God-Bot": {
+        "TypeScript": 851
     },
-    "Leomotors/daily_salim_quote": {
-        "Dart": 9348,
-        "HTML": 3713,
-        "Swift": 404,
-        "Kotlin": 136,
-        "Objective-C": 38
+    "CarelessDev/made-for-nathan": {
+        "JavaScript": 2082,
+        "Svelte": 1784,
+        "CSS": 890,
+        "HTML": 393,
+        "TypeScript": 105
     },
-    "Leomotors/Discord-Polynomial-Master": {
-        "JavaScript": 12726
+    "CarelessDev/mc-barrier-generator": {
+        "JavaScript": 844,
+        "Shell": 333
     },
-    "Leomotors/dotfiles": {
-        "Shell": 2417
+    "CarelessDev/Russian-Bot": {
+        "TypeScript": 1259,
+        "JavaScript": 574
     },
-    "Leomotors/Game-That-Has-Snake": {
-        "Python": 6819
-    },
-    "Leomotors/Leomotors": {},
-    "Leomotors/lolilang": {
-        "C": 13603,
-        "Makefile": 767
-    },
-    "Leomotors/Memers": {
-        "Dogescript": 353
-    },
-    "Leomotors/Mini-Vector-Calculator": {
-        "C": 34951
-    },
-    "Leomotors/My-ASCII-Adventure": {
-        "Python": 3638
-    },
-    "Leomotors/my-npm-automation": {
-        "JavaScript": 1568
-    },
-    "Leomotors/my-repos": {
-        "Vue": 8930,
-        "TypeScript": 5404,
-        "JavaScript": 1234,
-        "HTML": 620
-    },
-    "Leomotors/NSM2021-SmartWheelChair-Arduino": {
-        "C++": 10614
-    },
-    "Leomotors/NSM2021-SmartWheelChair-MobileApp": {
-        "Dart": 31951,
-        "HTML": 3745,
-        "Swift": 404,
-        "Kotlin": 154,
-        "Objective-C": 38
-    },
-    "Leomotors/Polynomial-Problems-Generator": {
-        "C++": 33793,
-        "Makefile": 682,
-        "Shell": 151
-    },
-    "Leomotors/RTX-2090-TiFy": {
-        "C++": 38496,
-        "CMake": 2011,
-        "Batchfile": 618
-    },
-    "Leomotors/Salim-Bot": {
-        "TypeScript": 51272,
-        "JavaScript": 2310,
-        "Shell": 630,
-        "Python": 104
-    },
-    "Leomotors/salim-quote-delivery": {
-        "TypeScript": 3856,
-        "JavaScript": 1430
-    },
-    "Leomotors/Simple-RLC-Calculator": {
-        "Python": 20196
-    },
-    "Leomotors/Steganoplusplus": {
-        "C++": 3191,
-        "CMake": 850
-    },
-    "Leomotors/Terminal-Video-Player": {
-        "C++": 8611,
-        "C": 3128,
-        "CMake": 1905
-    },
-    "Leomotors/THIS-REPO-HAS-9-ISSUES": {
-        "JavaScript": 930
-    },
-    "Leomotors/Wave-Interference-Simulation": {
-        "Python": 4847
-    },
-    "Leomotors/Website-Vector-Calculator": {
-        "TypeScript": 10299,
-        "HTML": 2797,
-        "CSS": 593
-    },
-    "Leomotors/Website-Vector-Calculator-2": {
-        "Svelte": 8159,
-        "TypeScript": 4039,
-        "JavaScript": 3253,
-        "SCSS": 3240,
-        "CSS": 1020,
-        "HTML": 406
+    "CarelessDev/SIMP-Bot": {
+        "Python": 20086
     }
 }
