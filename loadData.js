@@ -22,6 +22,10 @@ let outObject = {};
 
 for (const repo of allRepos) {
     const repoUrl = repo.full_name;
+
+    if (repo.fork)
+        continue;
+
     const langRepoUrl = `https://api.github.com/repos/${repoUrl}/languages`;
     const langResponse = await fetch(langRepoUrl);
 
