@@ -7,7 +7,7 @@ import * as fs from "fs/promises";
 // ! Only works on public repos
 const Username = "CarelessDev";
 
-const allReposUrl = `https://api.github.com/users/${Username}/repos`;
+const allReposUrl = `https://api.github.com/users/${Username}/repos?per_page=100`;
 const allReposResponse = await fetch(allReposUrl);
 if (allReposResponse.status >= 400) {
     throw new Error("Bad response from server");
