@@ -5,7 +5,7 @@ import * as fs from "fs/promises";
 
 // ! IMPORTANT: Change this if you wanna use on your own account
 // ! Only works on public repos
-const Username = "Leomotors";
+const Username = "CarelessDev";
 
 const allReposUrl = `https://api.github.com/users/${Username}/repos?per_page=100`;
 const allReposResponse = await fetch(allReposUrl);
